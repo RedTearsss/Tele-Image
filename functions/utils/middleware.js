@@ -1,5 +1,5 @@
 import sentryPlugin from "@cloudflare/pages-plugin-sentry";
-import '@sentry/tracing';
+//import '@sentry/tracing';
 
 export async function errorHandling(context) {
   const env = context.env;
