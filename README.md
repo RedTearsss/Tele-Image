@@ -179,4 +179,4 @@ Cloudflare KV 每天只有 1000 次的免费写入额度，每有一张新的图
 
 This project is tested with BrowserStack.
 
-This project is support by [Cloudflare](https://www.cloudflare.com/).
+This project is support by [Cloudflare](https://www.cloudflare.com/)..
